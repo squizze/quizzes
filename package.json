@@ -1,0 +1,25 @@
+{
+  "name": "squizze-quizzes",
+  "version": "0.0.1",
+  "description": "Quizzes from Squizze project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squizze/quizzes.git"
+  },
+  "keywords": [
+    "quiz",
+    "js",
+    "squizze",
+    "json"
+  ],
+  "author": "Teles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/squizze/quizzes/issues"
+  },
+  "homepage": "https://github.com/squizze/quizzes#readme"
+}
