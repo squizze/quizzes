@@ -1,6 +1,6 @@
 {
   "name": "squizze-quizzes",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Quizzes from Squizze project",
   "main": "index.js",
   "scripts": {
