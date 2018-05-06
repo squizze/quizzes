@@ -1,7 +1,5 @@
-import DISC from "api/disc";
-
-const Quizzes = {
-    DISC
-};
-
-export default Quizzes;
+module.exports = () => {
+    return {
+        disc: require('./api/disc')
+    }
+}
